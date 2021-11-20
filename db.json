@@ -37,7 +37,6 @@
         "value": 0
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=0",
     "image": "https://zeros.s3.amazonaws.com/images/0dog.jpg",
     "name": "Dog 0",
     "id": 0
@@ -80,7 +79,6 @@
         "value": 1
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=1",
     "image": "https://zeros.s3.amazonaws.com/images/1dog.jpg",
     "name": "Dog 1",
     "id": 1
@@ -123,7 +121,6 @@
         "value": 2
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=2",
     "image": "https://zeros.s3.amazonaws.com/images/2dog.jpg",
     "name": "Dog 2",
     "id": 2
@@ -166,7 +163,6 @@
         "value": 3
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=3",
     "image": "https://zeros.s3.amazonaws.com/images/3dog.jpg",
     "name": "Dog 3",
     "id": 3
@@ -209,7 +205,6 @@
         "value": 4
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=4",
     "image": "https://zeros.s3.amazonaws.com/images/4dog.jpg",
     "name": "Dog 4",
     "id": 4
@@ -252,7 +247,6 @@
         "value": 5
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=5",
     "image": "https://zeros.s3.amazonaws.com/images/5dog.jpg",
     "name": "Dog 5",
     "id": 5
@@ -295,7 +289,6 @@
         "value": 6
     }],
     "description": "Dog Collection",
-    "external_url": "https://example.com/?token_id=6",
     "image": "https://zeros.s3.amazonaws.com/images/6dog.jpg",
     "name": "Dog 6",
     "id": 6
